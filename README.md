@@ -3,5 +3,5 @@
 
 
 # 用到的技术栈有：
-Vue+WebPack+element+Axios+vueRouter
+Vue+WebPack+Element+Axios+vueRouter
 
